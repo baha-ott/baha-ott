@@ -6,7 +6,7 @@ Front-end developer
 
 * 🌍  I'm based in Nablus - palestine 🇵🇸
 * ✉️  You can contact me at [bahaalout126@gmail.com](mailto:bahaalout126@gmail.com)
-* 🧠  I'm learning typescript
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
